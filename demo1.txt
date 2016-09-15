@@ -1,0 +1,22 @@
+﻿Demo 1 palautus
+
+1.1: perusta git-repo: 2 p
+
+Perustettu.
+
+1.2: asenna & konfiguroi Rasbpian: 5 p
+
+Asennettu ja konffattu. Konffasin ensin Raspin lähiverkossa, IP: 192.168.1.49, jonka jälkeen varmistin VNC:n toiminnan myös ethernetin yli jaettuna, IP: 10.42.13
+
+1.3: etäkäyttö: 3 p
+
+Etäkäyttö VNC:llä varmistettu toimivaksi.
+
+Käytetyt komennot:
+
+sudo apt-get install tightvncserver
+tightvnc
+
+----
+
+Kommentti vetäjille: Kohdassa 1.3: etäkäyttö mainitaan VNC:n alla "yhdistä työasemalta IP:5901" vaikka tässä tarkoitetaan oikeasti "yhdistä työasemalta porttiin 5901".
