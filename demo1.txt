@@ -16,6 +16,9 @@ Käytetyt komennot:
 
 sudo apt-get install tightvncserver
 tightvnc
+ifconfig
+
+(Tietokoneella käytin tightvnc:n windows-clienttiä.)
 
 ----
 
