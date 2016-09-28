@@ -1,0 +1,27 @@
+﻿Demo 2 palautus
+
+2.1: ledi vilkkuu: 1p
+
+Tehty esimerkin mukaan.
+
+2.2: lue painiketta ja liikkeentunnistinta: 2p
+
+Samassa koodissa sekä napilla ledin sytyttäminen ja liikkeentunnistuksen tila printattuna terminaaliin.
++pull down resistor napissa tässä ja seuraavissa
+
+2.3: Liikennevalot: 4p
+
+Autoilijoille aina vihreä ja kävelijälle punainen. Nappia painettaessa molemmat vaihtavat tilaansa kunnes napista päästetään irti.
+
+2.4: Merkkivalo jalankulkijoille ja alasvetovastus: 2p
+
+Nyt myös keltaisella valolla. Kun nappia painaa, palaa autoilijoille vihreän lisäksi keltainen valo hetken aikaa, kunnes tulee punainen ja kävelijöille vihreä. Kävelijöiden vihreä pysyy hetken, kunnes palaudutaan normaalitilaan (auto vihreä, käv. punainen). 
+
+2.5: Liikennevaloihin liiketunnistin: 1p -> Tästä tehty Demo_2.fzz
+
+Kuten edellinen, mutta nyt myös liiketunnistimella. Jos tunnistin ei havaitse mitään, aloittaa valojen vaihtosekvenssin. Jos tunnistin havaitsee jotain, niin odotetaan hetki, jos liike loppuisi. Jos liike loppuu tai hetki kuluu, niin vaihtosekvenssi alkaa.
+
+
+----
+
+Kommentti vetäjille: Parista ensimmäisestä on valokuva, liikennevalovaiheista videot. Yritän muistaa näyttää videot henkilökohtaisesti, ettei tarvitse repoon laittaa.

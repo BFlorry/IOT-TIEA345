@@ -2,3 +2,9 @@ Tehdyt tehtävät:
 1.1: perusta git-repo: 2 p
 1.2: asenna & konfiguroi Rasbpian: 5 p
 1.3: etäkäyttö: 3 p
+
+2.1: ledi vilkkuu: 1p
+2.2: lue painiketta ja liikkeentunnistinta: 2p
+2.3: Liikennevalot: 4p
+2.4: Merkkivalo jalankulkijoille ja alasvetovastus: 2p
+2.5: Liikennevaloihin liiketunnistin: 1p
