@@ -7,6 +7,8 @@ Dataa tulee näyttöön
 3.2: Google Sheets: 3p
 
 Dataa kulkee driveen.
+Drivelinkki:
+https://docs.google.com/spreadsheets/d/1bvLE7o7HabHTh62IaLo7FutpxpyOYI5mJmh_2KF8rFE
 
 3.3 & 3.4: kamera toimintakunnossa: 2p
 
