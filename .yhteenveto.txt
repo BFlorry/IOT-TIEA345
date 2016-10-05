@@ -8,3 +8,10 @@
 2.3: Liikennevalot: 4p
 2.4: Merkkivalo jalankulkijoille ja alasvetovastus: 2p
 2.5: Liikennevaloihin liiketunnistin: 1p
+
+3.1: sensorin peruskäyttö: 1p
+3.2: Google Sheets: 3p
+3.3 & 3.4: kamera toimintakunnossa: 2p
+3.5: liiketunnistin ja kamera: 2p
+3.6: crontab: 2p
+3.7: HTTP-palvelin: 1p

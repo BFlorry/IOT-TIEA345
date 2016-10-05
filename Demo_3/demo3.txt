@@ -1,0 +1,27 @@
+﻿Demo 3 palautus
+
+3.1: sensorin peruskäyttö: 1p
+
+Dataa tulee näyttöön
+
+3.2: Google Sheets: 3p
+
+Dataa kulkee driveen.
+
+3.3 & 3.4: kamera toimintakunnossa: 2p
+
+Kuva ja 15sec video otettu.
+
+3.5: liiketunnistin ja kamera: 2p
+
+Ottaa kuvan 0.5sec välein jos liikettä.
+
+3.6: crontab: 2p
+
+Lisätty crontabiin rivi:
+0 * * * * raspistill -o /home/pi/Demo3/cam.jpg
+
+3.7: HTTP-palvelin: 1p
+
+Tehty index.html.
+HTTP-palvelimena käytetty SimpleHTTPServer.
