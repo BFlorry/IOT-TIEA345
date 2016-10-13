@@ -1,0 +1,31 @@
+﻿Demo 4 palautus
+
+4.1: Motion asennettu: 1p
+logfile /home/pi/motion/motion.log
+target_dir /home/pi/motion/images
+
+4.2: Motion tallentaa 2 kuvaa ennen liikettä: 1p
+pre_capture 2
+post_capture 10
+
+4.3: 10sek video liikkeestä: 1p
+ffmeg_output_movies on
+output_pictures off	
+post_capture 20	
+max_movie_time 10
+
+4.4: Tallentaa vain kuvan keskipistettä: 2p
+Löytyy kaikista motion.conf-tiedostoistani.
+area_detect 5
+
+4.5: OpenCV asennettu: 2p
+Kurssille voisi olla oma repo, josta ladata käännetty ohjelma.... Turhaa ajan hukkausta.
+
+4.6: Kahden kuvan vertailu ORBilla: 1p
+Vertailtu box.png ja box_in_scene.png -> T4.6.png
+
+4.7: Kasvojen tunnistus Haar-Cascadella: 1p
+Tutkittu Face1.jpg -> T4.7.png
+
+4.8: Kuva picameralla ja kasvojen tunnistus: 1p
+Tunnistaa kasvot, tallentaa tiedoston Face2.jpg

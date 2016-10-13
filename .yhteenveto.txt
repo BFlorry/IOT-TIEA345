@@ -15,3 +15,12 @@
 3.5: liiketunnistin ja kamera: 2p
 3.6: crontab: 2p
 3.7: HTTP-palvelin: 1p
+
+4.1: Motion asennettu: 1p
+4.2: Motion tallentaa 2 kuvaa ennen liikettä: 1p
+4.3: 10sek video liikkeestä: 1p
+4.4: Tallentaa vain kuvan keskipistettä: 2p
+4.5: OpenCV asennettu: 2p
+4.6: Kahden kuvan vertailu ORBilla: 1p
+4.7: Kasvojen tunnistus Haar-Cascadella: 1p
+4.8: Kuva picameralla ja kasvojen tunnistus: 1p
