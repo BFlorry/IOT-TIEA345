@@ -1,0 +1,4 @@
+﻿Demo 5 palautus
+
+5.2: Liikennevalot liiketunnistimella C:llä: 7p
+Kääntyy komennolla: gcc -o T5.2 T5.2.c

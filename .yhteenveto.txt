@@ -24,3 +24,5 @@
 4.6: Kahden kuvan vertailu ORBilla: 1p
 4.7: Kasvojen tunnistus Haar-Cascadella: 1p
 4.8: Kuva picameralla ja kasvojen tunnistus: 1p
+
+5.2: C-ratkaisu liikennevaloista liiketunnistimella: 7p
